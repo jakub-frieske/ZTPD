@@ -1,4 +1,4 @@
--- Æwiczenia laboratoryjne: Wprowadzenie, typ SDO_GEOMETRY
+-- Æwiczenia laboratoryjne: Przetwarzanie danych przestrzennych (Metadane, indeksowanie, przetwarzanie)
 SELECT * FROM USER_SDO_GEOM_METADATA;
 
 -- 1A
